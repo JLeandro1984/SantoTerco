@@ -1,0 +1,62 @@
+object Object]name":Terço Devocional - Santo Rosário,
+  short_name":Terço Devocional",
+ description": "Aplicativo para rezar o Santo Rosário com áudios, liturgia do dia e orações católicas",
+  start_url:/",
+ display:standalone",
+ background_color": "#1e3a8a",
+  theme_color": "#3b82f6,
+orientation":portrait-primary",
+ scope": /,
+  lang": "pt-BR,categories: [igion", "lifestyle,education"],
+icons": [
+ object Object]     src:icons/icon-72x72.png",
+      sizes": "7272,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src:icons/icon-96x96.png",
+      sizes": "9696,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-128x128png",
+     sizes": 128x128,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-144x144png",
+     sizes": 144x144,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-152x152png",
+     sizes": 152x152,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-192x192png",
+     sizes": 192x192,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-384x384png",
+     sizes": 384x384,    type": image/png",
+    purpose:maskable any"
+    },
+ object Object]     src: "icons/icon-512x512png",
+     sizes": 512x512,    type": image/png",
+    purpose:maskable any"
+    }
+  ],
+  shortcuts": [
+ object Object]     name": Mistérios Gozosos",
+      short_name": Gozosos     description": "Acessar os Mistérios Gozosos,
+      url: /#terco",
+      icons":    [object Object]          src:icons/icon-96x96.png",
+         sizes:96x96        }
+      ]
+    },
+ object Object]    name": "Liturgia do Dia",
+      short_name":Liturgia",
+    description": "Ver as leituras do dia,
+      url": "/#leituras",
+      icons":    [object Object]          src:icons/icon-96x96.png",
+         sizes:96x96        }
+      ]
+    }
+  ]
+} 
